@@ -1,7 +1,5 @@
 # Projeto-Vulcan
 
-# Projeto Vulcan SoftFactory
-
 Sistema desenvolvido para simular o controle de robôs industriais.
 
 ## Integrantes
