@@ -5,7 +5,7 @@ Sistema desenvolvido para simular o controle de robôs industriais.
 ## Integrantes 👥
 - Emanuel e Ana Julia — motor.js
 - Emanuel e Ana Julia — sensores.js
-- Cauã e João Pedro — app.js
+- Cauã, João Pedro e Marcio — app.js
 
 ## Funcionalidades 📎
 - Controle de velocidade do braço robótico.
